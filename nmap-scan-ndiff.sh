@@ -7,7 +7,7 @@
 #
 
 PATH="/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin"
-VERSION='0.0.1'
+VERSION='0.0.2'
 work="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 config="$work/nmap-scan-ndiff.conf"
 date="$(date +%F_%T)"
