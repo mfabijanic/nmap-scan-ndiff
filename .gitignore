@@ -29,4 +29,6 @@ tags
 backup
 # Default directory with scans
 scans
+# Config
+nmap-scan-ndiff.conf
 
